@@ -1,0 +1,13 @@
+body {
+    padding: 5%;
+    text-align: center;
+}
+
+.app {
+    padding: 5%;
+    color: white;
+    flex-direction: column;
+    background: teal;
+    justify-content: space-between;
+    align-items: center;
+}
